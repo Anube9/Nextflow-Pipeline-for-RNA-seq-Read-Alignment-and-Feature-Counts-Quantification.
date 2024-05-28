@@ -1,4 +1,4 @@
-# RNAseq-pipeline-using-Nextflow-of-EGFL1-Over-expression-in-Cervical-Cancer-Tissue
+# Nextflow Pipeline for RNA-seq Read Alignment and Feature Counts Quantification.
 # RNA-seq Pipeline with Nextflow
 
 This repository contains a Nextflow pipeline for processing RNA sequencing (RNA-seq) data. The pipeline performs the following steps:
